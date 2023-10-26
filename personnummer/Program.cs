@@ -45,7 +45,7 @@
         
         static void Main(string[] args)
         {
-            string personnummer = "99-08-18-01-------------------------37";
+            string personnummer = "99-08-18-0137";
 
             if (isValidPNR(personnummer))
             {
